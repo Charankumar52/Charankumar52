@@ -8,4 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Git
 - 🌱 I’m currently learning Angular-->
 
-I am here to learn Git along with Angular
+I am here to learn Git along with Angular.
+
+I have to achieve something
